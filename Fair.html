@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Alongside</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f8f9fa; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        .header { text-align: center; color: #2c3e50; border-bottom: 2px solid #007bff; padding-bottom: 10px; margin-bottom: 20px; }
+        .header p.tagline { font-size: 1.1em; color: #555; margin: 4px 0 0 0; }
+
+        .chat-box { height: 420px; border: 1px solid #ccc; border-radius: 5px; padding: 15px; overflow-y: auto; background: #fdfdfd; margin-bottom: 10px; }
+        .chat-input { width: 75%; padding: 10px; border: 1px solid #ccc; border-radius: 5px; font-size: 1em; }
+        .chat-btn { width: 20%; padding: 10px; background: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 1em; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>Alongside</h1>
+        <p class="tagline">You're not alone in this.</p>
+    </div>
+
+    <div class="chat-box" id="chatbox">
+        <p><b>Alongside:</b> Hey, I'm here. Whatever you're going through — whether it's a conflict, something that felt unfair, or just a situation you didn't know how to handle — tell me about it. We'll figure it out together.</p>
+    </div>
+    <input type="text" id="userInput" class="chat-input" placeholder="What's going on? Just talk to me...">
+    <button class="chat-btn" onclick="sendToLLM()">Send</button>
+</div>
+
+<script>
+    async function sendToLLM() {
+        const input = document.getElementById('userInput').value.trim();
+        const chatbox = document.getElementById('chatbox');
+
+        if (!input) return;
+
+        chatbox.innerHTML += `<p><b>You:</b> ${input}</p>`;
+        document.getElementById('userInput').value = '';
+
+        chatbox.innerHTML += `<p id="thinking" style="color: gray;"><i>Alongside is thinking...</i></p>`;
+        chatbox.scrollTop = chatbox.scrollHeight;
+
+        try {
+            const response = await fetch('/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ user_message: input })
+            });
+            const data = await response.json();
+            document.getElementById('thinking').remove();
+
+            chatbox.innerHTML += `<p style="color: #007bff;"><b>Alongside:</b> ${data.reply}</p>`;
+            chatbox.scrollTop = chatbox.scrollHeight;
+
+        } catch (error) {
+            document.getElementById('thinking').remove();
+            chatbox.innerHTML += `<p style="color: red;"><b>Error:</b> Could not connect. Try again in a moment.</p>`;
+        }
+    }
+
+    document.getElementById('userInput').addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') sendToLLM();
+    });
+</script>
+
+</body>
+</html>
