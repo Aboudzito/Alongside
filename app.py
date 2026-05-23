@@ -2,13 +2,14 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
-import anthropic
+import google.generativeai as genai
 import os
 from dotenv import load_dotenv
 
 # --- SETUP ---
 load_dotenv()
-client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+llm_model = genai.GenerativeModel('gemini-2.5-flash')
 
 app = FastAPI()
 app.add_middleware(
@@ -71,14 +72,8 @@ TONE: Warm. Real. Non-judgmental. Like a friend who actually gets it.
 @app.post("/chat")
 async def chat_with_ai(request: ChatRequest):
     try:
-        message = client.messages.create(
-            model="claude-sonnet-4-20250514",
-            max_tokens=1000,
-            system=SYSTEM_CONTEXT,
-            messages=[
-                {"role": "user", "content": request.user_message}
-            ]
-        )
-        return {"reply": message.content[0].text}
+        prompt = f"{SYSTEM_CONTEXT}\n\nStudent: {request.user_message}\nAlongside:"
+        response = llm_model.generate_content(prompt)
+        return {"reply": response.text}
     except Exception as e:
         return {"reply": "Something went wrong on our end. Try again in a moment."}
