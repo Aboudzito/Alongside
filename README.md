@@ -4,7 +4,6 @@
 
 Alongside helps students talk through everyday situations (friendship conflict, feeling judged, motivation, boundaries) in the voice of a supportive friend rather than a lecturer. Its conversation framework comes from *Dare To Be Aware*, a peer-led, 11-session character-building program I helped run at The Egyptian Language School (ELS), and from the survey feedback we collected after each session.
 
-🔗 **Live demo:** _add your Render link here_
 
 ---
 
