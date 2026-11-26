@@ -75,6 +75,6 @@ async def chat_with_ai(request: ChatRequest):
         prompt = f"{SYSTEM_CONTEXT}\n\nStudent: {request.user_message}\nAlongside:"
         response = llm_model.generate_content(prompt)
         return {"reply": response.text}
-        except Exception as e:
+    except Exception as e:
         print("CHAT ERROR:", repr(e))
         return {"reply": "Something went wrong on our end. Try again in a moment."}
