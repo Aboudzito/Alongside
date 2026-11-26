@@ -1,0 +1,950 @@
+student_id,topic,q1_correct,q2_correct,q3_correct,q4_correct,q5_correct,session_score,presenter_score,presenter_engaging_score,understood
+STU_001,Boundaries,1,1,1,1,1,5,4,3,1
+STU_002,Boundaries,1,1,1,0,1,5,3,5,0
+STU_003,Empathy & Sympathy,0,0,1,1,1,5,5,3,1
+STU_004,Gratitude,1,1,1,1,1,5,4,5,1
+STU_005,Expectations,0,0,1,0,1,3,5,2,1
+STU_006,Communication Skills,1,0,1,0,1,2,4,3,1
+STU_007,Expectations,1,1,0,1,0,3,4,4,1
+STU_008,Social Awareness,1,0,1,1,0,3,4,3,1
+STU_009,Mental Health,1,1,1,1,0,3,4,5,1
+STU_010,Diversity & Inclusion,0,1,1,1,0,4,5,4,1
+STU_011,Healthy Habits,1,1,1,1,1,5,4,5,1
+STU_012,Accountability,1,1,0,1,1,5,5,4,1
+STU_013,Social Awareness,1,1,1,1,1,2,4,4,1
+STU_014,Diversity & Inclusion,1,1,0,1,1,5,5,5,1
+STU_015,Accountability,1,1,1,0,1,4,5,4,1
+STU_016,Boundaries,1,1,0,1,1,5,4,5,1
+STU_017,Mental Health,1,1,0,0,0,3,4,4,1
+STU_018,Healthy Habits,1,0,1,1,1,3,4,4,1
+STU_019,Accountability,0,0,1,1,0,3,4,5,1
+STU_020,Boundaries,1,1,1,1,1,4,5,3,1
+STU_021,Mental Health,0,1,1,1,1,3,4,4,0
+STU_022,Boundaries,1,1,0,1,1,3,4,4,1
+STU_023,Expectations,1,1,1,1,1,4,4,4,1
+STU_024,Critical Thinking,0,0,1,1,1,5,3,4,1
+STU_025,Critical Thinking,1,1,1,0,1,4,4,4,1
+STU_026,Social Awareness,0,1,1,1,1,5,3,4,1
+STU_027,Gratitude,1,1,0,1,1,4,5,4,1
+STU_028,Empathy & Sympathy,1,1,1,1,1,4,3,4,1
+STU_029,Diversity & Inclusion,1,1,1,1,1,3,4,4,1
+STU_030,Mental Health,1,1,0,1,1,4,5,4,1
+STU_031,Boundaries,1,1,1,1,1,5,3,4,1
+STU_032,Accountability,1,1,1,0,1,4,5,5,1
+STU_033,Healthy Habits,1,1,0,0,0,5,4,3,0
+STU_034,Social Awareness,0,0,0,1,1,4,4,3,1
+STU_035,Diversity & Inclusion,1,1,1,1,1,4,5,4,1
+STU_036,Diversity & Inclusion,1,1,1,1,1,5,5,5,1
+STU_037,Expectations,0,0,1,1,1,4,4,3,1
+STU_038,Accountability,1,1,0,0,1,3,5,4,1
+STU_039,Empathy & Sympathy,0,1,0,1,0,3,4,4,1
+STU_040,Gratitude,1,1,1,0,1,4,5,4,1
+STU_041,Boundaries,1,1,1,1,1,5,5,5,1
+STU_042,Communication Skills,1,1,1,0,1,5,5,5,1
+STU_043,Empathy & Sympathy,1,1,1,1,0,4,5,3,1
+STU_044,Communication Skills,1,0,1,1,1,4,3,4,1
+STU_045,Boundaries,1,1,1,1,1,5,5,2,1
+STU_046,Healthy Habits,1,1,1,1,1,5,4,4,1
+STU_047,Gratitude,1,1,1,1,1,4,5,4,1
+STU_048,Empathy & Sympathy,1,1,1,1,1,4,4,4,1
+STU_049,Communication Skills,1,1,1,0,1,4,5,3,1
+STU_050,Social Awareness,0,0,1,1,1,4,4,4,1
+STU_051,Mental Health,1,1,1,1,1,4,5,3,1
+STU_052,Diversity & Inclusion,1,1,1,1,1,5,4,4,1
+STU_053,Empathy & Sympathy,1,1,1,0,1,4,5,2,1
+STU_054,Mental Health,1,1,0,1,0,3,4,3,0
+STU_055,Mental Health,0,0,0,1,1,3,5,5,0
+STU_056,Gratitude,0,0,1,1,1,3,2,4,1
+STU_057,Diversity & Inclusion,1,1,1,1,1,3,4,5,1
+STU_058,Mental Health,1,1,1,1,1,5,5,5,1
+STU_059,Mental Health,1,1,1,1,0,4,4,3,1
+STU_060,Healthy Habits,1,1,1,1,1,5,5,5,1
+STU_061,Accountability,0,0,0,0,0,3,3,2,0
+STU_062,Gratitude,1,1,0,1,1,4,4,4,1
+STU_063,Healthy Habits,1,0,0,1,1,3,5,4,0
+STU_064,Social Awareness,1,1,1,0,0,5,3,3,1
+STU_065,Gratitude,1,1,1,1,1,5,5,5,0
+STU_066,Diversity & Inclusion,1,1,1,1,1,5,4,5,1
+STU_067,Healthy Habits,1,1,0,1,0,4,3,4,1
+STU_068,Communication Skills,1,0,1,1,0,4,4,4,1
+STU_069,Accountability,1,1,1,1,1,5,5,4,1
+STU_070,Mental Health,1,1,1,0,1,5,5,4,1
+STU_071,Social Awareness,0,0,1,0,1,2,3,4,1
+STU_072,Expectations,1,1,1,1,0,4,4,4,1
+STU_073,Healthy Habits,0,0,1,1,0,3,4,4,1
+STU_074,Accountability,1,0,1,1,1,3,4,5,1
+STU_075,Social Awareness,1,1,1,1,0,2,4,3,1
+STU_076,Empathy & Sympathy,1,1,1,1,1,4,4,4,1
+STU_077,Diversity & Inclusion,1,0,1,1,1,5,5,3,1
+STU_078,Expectations,1,0,1,1,1,5,4,4,1
+STU_079,Boundaries,1,1,1,1,1,5,4,5,1
+STU_080,Boundaries,1,1,1,1,1,5,3,3,1
+STU_081,Diversity & Inclusion,1,1,1,1,1,4,5,4,1
+STU_082,Social Awareness,1,0,0,1,1,4,3,4,1
+STU_083,Empathy & Sympathy,1,1,1,1,1,3,4,2,1
+STU_084,Gratitude,1,1,0,1,1,3,5,3,1
+STU_085,Boundaries,1,1,0,0,1,3,3,4,0
+STU_086,Mental Health,1,0,1,1,1,3,4,2,1
+STU_087,Communication Skills,1,0,1,0,0,5,4,3,1
+STU_088,Diversity & Inclusion,1,1,1,1,1,3,4,5,1
+STU_089,Diversity & Inclusion,0,1,0,1,1,4,5,5,1
+STU_090,Social Awareness,1,0,1,1,1,3,3,4,1
+STU_091,Mental Health,1,0,0,1,0,4,5,5,1
+STU_092,Empathy & Sympathy,0,1,0,0,0,5,5,4,1
+STU_093,Boundaries,0,1,1,1,1,5,4,4,1
+STU_094,Boundaries,1,1,1,0,1,3,4,4,1
+STU_095,Empathy & Sympathy,0,1,1,1,1,3,4,3,0
+STU_096,Empathy & Sympathy,0,1,0,1,0,2,4,3,0
+STU_097,Expectations,0,1,1,1,0,4,4,4,0
+STU_098,Healthy Habits,1,1,1,0,1,4,4,5,0
+STU_099,Communication Skills,1,1,1,1,1,4,3,5,1
+STU_100,Mental Health,1,1,0,1,0,4,5,3,0
+STU_101,Healthy Habits,1,1,1,0,0,3,5,3,1
+STU_102,Gratitude,1,1,1,1,0,5,5,5,1
+STU_103,Mental Health,1,1,1,1,1,4,3,4,1
+STU_104,Expectations,1,1,0,1,1,5,4,5,1
+STU_105,Diversity & Inclusion,1,1,1,1,0,1,4,3,1
+STU_106,Empathy & Sympathy,0,1,1,1,1,4,3,4,0
+STU_107,Critical Thinking,1,1,1,1,1,5,3,3,1
+STU_108,Mental Health,1,0,1,1,0,5,3,4,1
+STU_109,Empathy & Sympathy,1,1,1,1,1,3,5,5,1
+STU_110,Diversity & Inclusion,0,0,1,0,0,3,4,4,0
+STU_111,Mental Health,0,0,1,1,1,3,3,5,1
+STU_112,Empathy & Sympathy,0,1,0,1,1,5,4,3,1
+STU_113,Gratitude,0,1,0,1,1,4,4,4,0
+STU_114,Empathy & Sympathy,1,0,1,1,0,3,4,5,1
+STU_115,Critical Thinking,1,1,1,1,1,4,4,3,1
+STU_116,Communication Skills,1,1,0,1,0,2,3,4,1
+STU_117,Expectations,1,1,0,0,1,3,4,5,1
+STU_118,Communication Skills,0,0,1,0,1,4,4,4,1
+STU_119,Diversity & Inclusion,1,1,1,1,1,5,5,5,1
+STU_120,Mental Health,1,1,1,1,1,2,4,3,1
+STU_121,Communication Skills,1,1,0,1,1,3,4,3,1
+STU_122,Mental Health,1,1,1,1,1,5,4,5,1
+STU_123,Boundaries,1,1,1,1,1,3,4,3,1
+STU_124,Mental Health,1,1,1,1,1,5,5,4,1
+STU_125,Diversity & Inclusion,0,1,1,1,1,5,4,4,1
+STU_126,Accountability,1,1,1,1,0,5,4,5,1
+STU_127,Expectations,1,1,1,1,1,5,5,5,1
+STU_128,Diversity & Inclusion,0,1,1,0,1,3,4,4,1
+STU_129,Boundaries,1,1,1,0,0,4,3,3,1
+STU_130,Critical Thinking,1,0,0,1,1,2,4,4,1
+STU_131,Communication Skills,0,1,1,1,1,4,3,5,1
+STU_132,Boundaries,1,1,0,1,1,3,4,4,1
+STU_133,Social Awareness,0,1,1,1,1,4,4,4,1
+STU_134,Expectations,1,1,0,1,1,5,4,3,1
+STU_135,Boundaries,0,1,1,1,0,4,5,3,1
+STU_136,Critical Thinking,0,1,1,0,1,3,4,3,1
+STU_137,Social Awareness,1,0,1,0,1,4,5,4,1
+STU_138,Mental Health,1,1,1,1,1,5,5,4,1
+STU_139,Communication Skills,0,1,1,1,1,5,5,5,1
+STU_140,Communication Skills,1,1,1,1,1,5,5,5,1
+STU_141,Expectations,1,1,1,1,1,4,5,4,1
+STU_142,Diversity & Inclusion,1,1,0,1,0,3,4,2,1
+STU_143,Boundaries,0,0,1,1,0,1,5,4,1
+STU_144,Communication Skills,1,1,1,1,1,5,5,4,1
+STU_145,Diversity & Inclusion,0,1,0,0,1,3,4,2,1
+STU_146,Diversity & Inclusion,1,1,1,1,0,5,4,4,1
+STU_147,Diversity & Inclusion,0,1,0,1,1,3,4,4,0
+STU_148,Mental Health,1,1,0,1,1,3,3,2,1
+STU_149,Social Awareness,1,1,0,0,1,5,4,4,1
+STU_150,Social Awareness,1,1,1,1,1,5,4,4,1
+STU_151,Boundaries,0,1,1,1,1,4,4,4,1
+STU_152,Critical Thinking,1,1,1,1,1,4,4,3,0
+STU_153,Social Awareness,0,1,0,1,0,3,3,2,1
+STU_154,Gratitude,1,1,0,0,0,4,5,4,1
+STU_155,Healthy Habits,0,1,1,1,1,3,5,3,1
+STU_156,Mental Health,1,1,1,1,1,5,5,5,1
+STU_157,Boundaries,1,1,1,1,1,4,3,3,1
+STU_158,Social Awareness,1,1,1,1,1,5,5,3,1
+STU_159,Healthy Habits,1,1,1,1,0,3,4,4,0
+STU_160,Healthy Habits,1,0,1,1,1,3,4,4,0
+STU_161,Boundaries,1,0,1,1,0,4,3,4,0
+STU_162,Critical Thinking,1,1,1,1,1,4,3,3,1
+STU_163,Diversity & Inclusion,1,1,1,1,1,5,5,4,1
+STU_164,Healthy Habits,0,1,1,0,0,3,5,5,1
+STU_165,Accountability,1,1,1,0,0,5,5,3,1
+STU_166,Diversity & Inclusion,1,1,1,1,1,3,4,4,1
+STU_167,Mental Health,0,1,1,1,1,4,5,5,1
+STU_168,Social Awareness,1,1,1,1,1,4,4,5,1
+STU_169,Gratitude,1,1,1,1,1,5,4,3,1
+STU_170,Empathy & Sympathy,0,1,1,0,1,4,4,3,1
+STU_171,Empathy & Sympathy,1,1,1,1,1,5,3,3,1
+STU_172,Mental Health,1,1,1,1,1,4,4,3,1
+STU_173,Gratitude,0,1,1,1,0,4,4,3,1
+STU_174,Accountability,1,0,1,1,1,3,4,4,1
+STU_175,Gratitude,1,0,0,1,0,2,3,4,1
+STU_176,Empathy & Sympathy,1,1,1,1,1,3,5,3,1
+STU_177,Mental Health,1,1,1,1,1,5,4,5,1
+STU_178,Expectations,1,1,1,0,1,5,4,4,1
+STU_179,Social Awareness,1,0,1,1,0,4,4,5,1
+STU_180,Healthy Habits,1,1,1,1,1,4,3,4,1
+STU_181,Diversity & Inclusion,1,1,1,1,0,5,5,5,1
+STU_182,Empathy & Sympathy,1,0,0,1,1,5,3,4,1
+STU_183,Communication Skills,1,0,1,1,0,5,3,4,1
+STU_184,Social Awareness,1,1,1,1,1,4,5,3,1
+STU_185,Expectations,1,1,0,1,1,4,4,4,1
+STU_186,Expectations,1,1,1,1,1,5,5,5,1
+STU_187,Diversity & Inclusion,0,1,1,1,1,4,3,4,1
+STU_188,Diversity & Inclusion,1,1,1,1,1,3,4,4,1
+STU_189,Expectations,1,1,1,1,0,4,4,4,1
+STU_190,Gratitude,1,1,1,1,1,5,5,5,1
+STU_191,Mental Health,1,1,1,1,1,5,5,5,1
+STU_192,Gratitude,1,1,0,1,1,4,4,3,1
+STU_193,Empathy & Sympathy,1,1,1,1,1,5,4,5,1
+STU_194,Healthy Habits,1,1,1,1,1,4,4,5,1
+STU_195,Boundaries,0,0,0,1,1,3,5,3,0
+STU_196,Diversity & Inclusion,1,1,1,1,1,3,4,3,0
+STU_197,Boundaries,1,1,1,1,1,4,4,3,1
+STU_198,Critical Thinking,0,1,1,0,1,3,4,4,1
+STU_199,Empathy & Sympathy,0,1,0,1,1,4,4,4,1
+STU_200,Social Awareness,1,1,0,1,1,4,3,3,1
+STU_201,Social Awareness,1,0,0,1,1,4,4,5,1
+STU_202,Social Awareness,1,1,1,1,1,5,4,4,1
+STU_203,Diversity & Inclusion,1,0,1,1,1,3,3,5,1
+STU_204,Expectations,1,0,1,1,1,5,3,5,1
+STU_205,Social Awareness,1,1,1,0,0,4,2,4,0
+STU_206,Social Awareness,1,1,1,1,1,4,4,4,1
+STU_207,Accountability,0,0,1,1,0,3,4,3,1
+STU_208,Boundaries,0,1,1,0,1,4,3,2,1
+STU_209,Social Awareness,0,1,1,0,0,2,4,3,1
+STU_210,Boundaries,1,1,1,1,1,4,4,3,1
+STU_211,Critical Thinking,1,1,1,1,1,5,5,4,1
+STU_212,Boundaries,1,1,1,0,1,3,3,3,1
+STU_213,Communication Skills,1,1,1,1,1,4,3,4,1
+STU_214,Gratitude,0,1,1,1,1,4,4,4,1
+STU_215,Healthy Habits,0,1,0,1,1,5,3,3,0
+STU_216,Gratitude,1,1,1,1,0,5,5,4,1
+STU_217,Mental Health,1,1,1,1,1,3,4,4,1
+STU_218,Critical Thinking,1,1,1,1,1,5,5,4,1
+STU_219,Healthy Habits,1,1,0,1,1,5,4,5,1
+STU_220,Mental Health,1,1,0,1,1,4,5,4,1
+STU_221,Healthy Habits,1,1,1,1,0,3,3,2,1
+STU_222,Diversity & Inclusion,1,1,1,1,0,4,4,4,1
+STU_223,Diversity & Inclusion,1,1,1,0,0,3,4,4,1
+STU_224,Critical Thinking,0,0,1,1,1,4,5,3,1
+STU_225,Gratitude,1,1,1,1,1,3,5,3,1
+STU_226,Healthy Habits,1,1,1,1,1,4,4,5,1
+STU_227,Diversity & Inclusion,1,1,1,1,1,5,5,4,1
+STU_228,Empathy & Sympathy,1,1,1,0,1,5,5,5,1
+STU_229,Diversity & Inclusion,1,0,1,1,1,5,5,4,1
+STU_230,Critical Thinking,0,1,0,1,1,4,3,4,1
+STU_231,Mental Health,0,0,0,1,0,3,4,5,0
+STU_232,Boundaries,1,1,0,0,1,3,2,4,1
+STU_233,Diversity & Inclusion,0,1,0,1,0,3,3,4,1
+STU_234,Expectations,0,0,1,1,1,4,5,5,1
+STU_235,Healthy Habits,1,1,1,1,1,4,3,3,1
+STU_236,Communication Skills,1,0,1,1,1,4,4,4,0
+STU_237,Empathy & Sympathy,0,1,0,1,0,2,4,2,1
+STU_238,Accountability,0,1,1,1,1,5,4,3,1
+STU_239,Accountability,1,0,0,0,1,3,3,3,1
+STU_240,Diversity & Inclusion,1,1,1,1,1,3,4,4,1
+STU_241,Empathy & Sympathy,0,1,1,0,0,3,3,2,1
+STU_242,Boundaries,1,1,1,1,1,5,4,4,1
+STU_243,Communication Skills,1,0,0,1,0,5,3,2,0
+STU_244,Expectations,1,0,1,1,1,2,3,4,0
+STU_245,Critical Thinking,0,1,1,1,1,5,5,5,1
+STU_246,Communication Skills,0,1,1,0,0,4,3,2,0
+STU_247,Mental Health,1,1,1,1,1,2,5,3,1
+STU_248,Boundaries,1,1,1,1,1,5,4,4,1
+STU_249,Healthy Habits,1,1,1,1,1,5,5,5,1
+STU_250,Communication Skills,0,0,0,1,1,3,5,3,0
+STU_251,Communication Skills,1,1,1,1,1,4,5,4,1
+STU_252,Empathy & Sympathy,1,1,1,1,0,5,4,5,1
+STU_253,Empathy & Sympathy,1,1,1,1,1,5,5,4,1
+STU_254,Social Awareness,1,0,0,1,1,3,4,2,1
+STU_255,Diversity & Inclusion,1,1,1,1,1,3,4,4,1
+STU_256,Critical Thinking,1,1,1,1,1,4,5,3,0
+STU_257,Social Awareness,1,1,1,0,1,5,5,3,1
+STU_258,Communication Skills,1,1,0,1,1,3,4,4,1
+STU_259,Accountability,1,1,1,1,1,4,4,4,1
+STU_260,Empathy & Sympathy,0,1,1,0,0,3,4,2,1
+STU_261,Empathy & Sympathy,1,0,0,1,1,3,3,3,1
+STU_262,Healthy Habits,1,0,1,0,0,4,4,3,1
+STU_263,Expectations,0,1,1,1,1,5,3,5,1
+STU_264,Social Awareness,1,0,1,1,1,4,3,4,1
+STU_265,Diversity & Inclusion,1,1,1,1,0,4,5,4,1
+STU_266,Social Awareness,1,1,0,1,1,5,4,5,1
+STU_267,Healthy Habits,0,1,1,0,1,4,4,3,1
+STU_268,Accountability,1,1,1,0,0,5,5,4,1
+STU_269,Social Awareness,0,1,1,0,1,4,3,4,1
+STU_270,Communication Skills,1,1,1,1,1,4,4,4,1
+STU_271,Healthy Habits,1,0,0,0,0,2,5,3,0
+STU_272,Boundaries,1,1,1,1,1,3,4,4,1
+STU_273,Critical Thinking,1,1,1,0,1,2,3,4,1
+STU_274,Critical Thinking,1,1,1,1,1,5,5,5,1
+STU_275,Gratitude,1,1,1,1,1,4,4,4,1
+STU_276,Expectations,0,0,1,1,1,5,5,4,1
+STU_277,Critical Thinking,1,0,0,1,0,4,3,4,0
+STU_278,Mental Health,0,0,1,0,1,3,4,4,0
+STU_279,Empathy & Sympathy,1,1,1,1,1,4,5,5,1
+STU_280,Communication Skills,1,1,1,1,1,5,4,3,1
+STU_281,Mental Health,1,1,1,0,1,4,4,3,1
+STU_282,Expectations,0,0,0,0,0,2,4,3,0
+STU_283,Healthy Habits,1,1,1,1,0,5,4,5,1
+STU_284,Communication Skills,1,1,0,1,1,5,4,4,1
+STU_285,Communication Skills,0,1,1,1,0,3,3,3,1
+STU_286,Empathy & Sympathy,0,1,1,1,1,4,4,4,1
+STU_287,Gratitude,1,1,1,0,1,4,4,3,1
+STU_288,Healthy Habits,1,1,1,0,1,4,4,5,1
+STU_289,Critical Thinking,1,1,1,1,1,3,4,4,1
+STU_290,Gratitude,0,0,1,1,1,5,4,3,1
+STU_291,Diversity & Inclusion,0,1,1,1,1,3,4,4,1
+STU_292,Mental Health,0,1,1,0,0,5,4,4,1
+STU_293,Boundaries,1,1,1,1,1,5,5,5,1
+STU_294,Mental Health,0,1,0,0,0,3,3,2,1
+STU_295,Accountability,1,1,1,0,1,4,4,4,1
+STU_296,Social Awareness,1,1,0,0,1,5,3,4,1
+STU_297,Accountability,1,1,0,1,0,4,4,3,1
+STU_298,Social Awareness,1,0,1,1,1,5,4,4,1
+STU_299,Accountability,1,0,0,0,0,4,3,3,1
+STU_300,Gratitude,1,1,1,1,1,4,5,3,1
+STU_301,Communication Skills,1,0,1,1,1,5,5,5,1
+STU_302,Communication Skills,1,0,0,0,0,3,4,3,0
+STU_303,Mental Health,1,1,1,1,1,4,4,4,1
+STU_304,Boundaries,1,1,1,1,1,5,4,4,1
+STU_305,Communication Skills,1,0,1,1,1,3,3,4,1
+STU_306,Social Awareness,0,1,0,1,0,3,4,4,1
+STU_307,Diversity & Inclusion,1,1,1,0,1,5,3,3,1
+STU_308,Diversity & Inclusion,1,1,1,1,1,5,4,4,1
+STU_309,Diversity & Inclusion,1,1,1,0,1,5,2,5,1
+STU_310,Gratitude,1,1,1,1,1,5,4,5,1
+STU_311,Communication Skills,1,1,1,1,1,5,5,5,1
+STU_312,Empathy & Sympathy,1,1,1,1,1,4,5,5,1
+STU_313,Critical Thinking,1,1,1,1,0,5,5,5,1
+STU_314,Accountability,1,1,1,1,1,3,5,5,1
+STU_315,Empathy & Sympathy,1,1,1,1,1,5,5,4,1
+STU_316,Mental Health,1,1,1,1,1,4,4,3,1
+STU_317,Boundaries,1,1,1,1,1,4,3,4,1
+STU_318,Diversity & Inclusion,0,1,1,1,1,3,5,4,1
+STU_319,Diversity & Inclusion,1,1,1,1,1,4,5,5,1
+STU_320,Boundaries,1,1,1,1,0,4,5,4,1
+STU_321,Mental Health,1,1,1,1,1,4,4,4,1
+STU_322,Expectations,1,1,0,1,0,4,5,4,1
+STU_323,Expectations,1,1,1,1,1,5,4,4,1
+STU_324,Expectations,1,1,1,1,1,5,5,5,1
+STU_325,Social Awareness,1,1,1,1,1,4,5,5,1
+STU_326,Empathy & Sympathy,1,1,1,1,1,4,4,3,1
+STU_327,Empathy & Sympathy,0,0,1,1,1,3,3,4,1
+STU_328,Diversity & Inclusion,1,1,1,1,1,4,3,3,1
+STU_329,Critical Thinking,1,0,0,1,1,2,3,4,1
+STU_330,Boundaries,1,1,1,1,1,4,4,3,0
+STU_331,Mental Health,1,1,1,0,1,5,5,5,1
+STU_332,Boundaries,1,1,1,1,1,5,4,4,1
+STU_333,Communication Skills,1,1,1,1,0,3,4,4,1
+STU_334,Gratitude,1,1,1,1,1,4,2,4,1
+STU_335,Critical Thinking,1,1,0,1,1,3,5,3,1
+STU_336,Expectations,0,0,1,0,1,2,3,3,1
+STU_337,Critical Thinking,1,1,1,0,1,4,4,3,1
+STU_338,Communication Skills,1,0,1,1,1,5,5,4,1
+STU_339,Healthy Habits,1,1,1,1,1,4,5,4,1
+STU_340,Expectations,1,1,1,1,0,4,4,5,1
+STU_341,Social Awareness,0,1,0,1,0,2,1,2,0
+STU_342,Communication Skills,1,1,1,0,1,4,4,5,1
+STU_343,Diversity & Inclusion,1,1,1,1,1,5,4,4,1
+STU_344,Communication Skills,1,1,1,1,1,4,3,3,0
+STU_345,Diversity & Inclusion,1,1,1,1,1,5,5,5,1
+STU_346,Gratitude,0,0,1,1,1,2,3,2,0
+STU_347,Diversity & Inclusion,0,1,0,0,1,3,3,4,1
+STU_348,Accountability,1,1,1,1,1,5,5,4,1
+STU_349,Gratitude,0,0,0,1,1,3,3,3,1
+STU_350,Accountability,1,1,1,1,1,4,4,4,1
+STU_351,Critical Thinking,1,1,1,1,1,4,4,4,1
+STU_352,Accountability,1,1,1,1,1,3,5,5,1
+STU_353,Accountability,0,0,0,1,1,3,4,3,1
+STU_354,Empathy & Sympathy,1,1,1,1,1,5,4,4,1
+STU_355,Expectations,1,1,1,1,1,5,4,5,1
+STU_356,Boundaries,1,1,1,1,1,5,5,4,1
+STU_357,Communication Skills,1,1,0,1,1,4,5,2,1
+STU_358,Accountability,1,1,1,1,1,4,5,5,1
+STU_359,Diversity & Inclusion,1,1,0,1,1,4,4,4,1
+STU_360,Mental Health,1,1,1,1,1,2,5,4,0
+STU_361,Boundaries,0,1,0,1,1,4,3,4,1
+STU_362,Expectations,1,1,1,1,1,4,4,3,0
+STU_363,Diversity & Inclusion,1,1,1,1,1,5,4,5,1
+STU_364,Communication Skills,0,1,0,1,0,4,3,3,0
+STU_365,Accountability,1,1,0,0,1,3,3,4,1
+STU_366,Communication Skills,1,1,1,0,1,5,3,4,1
+STU_367,Accountability,1,1,1,1,1,3,3,4,1
+STU_368,Expectations,1,1,1,0,1,3,4,3,0
+STU_369,Critical Thinking,1,1,1,1,1,4,4,5,1
+STU_370,Expectations,1,1,0,0,1,4,4,3,1
+STU_371,Healthy Habits,0,1,1,1,1,5,4,5,0
+STU_372,Gratitude,1,1,1,1,1,5,4,5,1
+STU_373,Gratitude,1,1,1,1,1,5,5,5,1
+STU_374,Expectations,1,1,1,1,1,5,4,5,1
+STU_375,Accountability,1,1,1,1,1,5,5,4,1
+STU_376,Communication Skills,1,1,1,1,1,5,5,5,1
+STU_377,Empathy & Sympathy,1,0,0,1,1,5,3,4,1
+STU_378,Empathy & Sympathy,1,1,0,1,1,3,3,2,0
+STU_379,Healthy Habits,1,1,1,1,1,5,4,5,1
+STU_380,Boundaries,1,1,1,1,1,5,4,5,1
+STU_381,Healthy Habits,1,1,1,1,1,4,4,4,1
+STU_382,Critical Thinking,1,1,1,1,1,5,5,4,1
+STU_383,Diversity & Inclusion,1,0,1,1,0,4,2,3,1
+STU_384,Boundaries,0,0,1,1,1,5,4,2,1
+STU_385,Critical Thinking,1,1,1,0,1,3,4,4,1
+STU_386,Gratitude,0,1,1,0,1,3,5,2,1
+STU_387,Gratitude,1,1,1,1,0,5,4,4,1
+STU_388,Boundaries,0,1,1,1,1,5,4,3,1
+STU_389,Mental Health,1,1,1,1,1,4,4,3,1
+STU_390,Gratitude,1,1,1,1,1,3,5,3,1
+STU_391,Diversity & Inclusion,0,1,0,0,0,3,2,2,0
+STU_392,Empathy & Sympathy,1,1,1,1,1,4,3,5,1
+STU_393,Empathy & Sympathy,1,1,0,1,0,3,5,3,1
+STU_394,Critical Thinking,0,1,1,1,1,4,4,4,1
+STU_395,Healthy Habits,0,0,0,1,1,5,3,2,0
+STU_396,Critical Thinking,1,1,1,1,1,4,4,2,1
+STU_397,Mental Health,1,1,1,1,1,5,2,5,1
+STU_398,Boundaries,1,1,1,1,1,5,4,5,1
+STU_399,Social Awareness,0,1,1,0,1,5,5,4,1
+STU_400,Communication Skills,1,1,0,1,1,3,3,3,0
+STU_401,Boundaries,1,1,1,1,1,4,4,4,1
+STU_402,Accountability,0,1,1,1,1,4,5,5,1
+STU_403,Diversity & Inclusion,1,0,1,1,1,4,3,4,1
+STU_404,Communication Skills,1,1,1,1,0,4,3,4,1
+STU_405,Communication Skills,0,1,0,1,1,4,4,4,1
+STU_406,Communication Skills,0,1,0,1,0,5,3,3,1
+STU_407,Accountability,0,0,1,1,1,5,4,3,1
+STU_408,Expectations,1,0,1,1,1,5,3,5,1
+STU_409,Accountability,0,1,1,0,0,3,3,2,0
+STU_410,Empathy & Sympathy,1,1,1,1,1,3,3,4,1
+STU_411,Mental Health,1,1,0,1,1,2,4,3,1
+STU_412,Social Awareness,0,1,0,1,1,1,3,3,1
+STU_413,Expectations,1,0,0,1,1,3,4,5,1
+STU_414,Communication Skills,1,1,0,1,1,4,3,4,1
+STU_415,Social Awareness,1,1,1,1,0,2,4,4,1
+STU_416,Mental Health,1,1,1,1,1,4,4,3,1
+STU_417,Communication Skills,1,1,0,0,1,4,4,4,1
+STU_418,Empathy & Sympathy,1,1,1,1,1,5,5,5,1
+STU_419,Social Awareness,1,1,1,1,1,3,3,5,1
+STU_420,Empathy & Sympathy,1,1,1,1,1,5,5,3,1
+STU_421,Critical Thinking,0,1,0,1,1,5,5,4,0
+STU_422,Expectations,1,1,1,0,1,4,4,5,1
+STU_423,Social Awareness,1,1,1,1,1,3,3,3,1
+STU_424,Social Awareness,1,1,1,0,0,3,2,3,0
+STU_425,Social Awareness,1,1,1,0,0,3,5,4,1
+STU_426,Expectations,1,1,1,1,0,3,4,4,1
+STU_427,Empathy & Sympathy,1,1,1,1,1,4,4,5,1
+STU_428,Critical Thinking,1,1,1,1,1,5,5,5,1
+STU_429,Healthy Habits,1,1,1,0,1,3,3,4,1
+STU_430,Critical Thinking,1,1,1,1,1,3,4,4,1
+STU_431,Gratitude,1,1,0,1,0,3,4,3,1
+STU_432,Mental Health,1,1,1,1,1,4,3,4,1
+STU_433,Social Awareness,1,1,1,1,1,2,4,3,1
+STU_434,Diversity & Inclusion,1,1,1,0,0,3,4,3,1
+STU_435,Critical Thinking,1,1,1,1,1,5,5,4,1
+STU_436,Boundaries,1,0,1,1,1,4,5,3,1
+STU_437,Accountability,1,1,1,1,0,5,5,4,1
+STU_438,Healthy Habits,1,0,1,1,1,4,4,2,1
+STU_439,Boundaries,1,0,1,1,1,5,2,4,1
+STU_440,Healthy Habits,1,1,1,0,1,5,3,4,1
+STU_441,Empathy & Sympathy,1,1,1,1,1,4,5,5,1
+STU_442,Expectations,0,1,1,1,1,4,3,4,1
+STU_443,Empathy & Sympathy,1,1,0,0,0,5,4,5,1
+STU_444,Mental Health,1,1,1,1,1,4,5,5,1
+STU_445,Gratitude,0,1,1,0,1,4,5,4,1
+STU_446,Accountability,1,0,0,0,1,3,3,3,1
+STU_447,Gratitude,1,1,1,1,1,5,4,3,1
+STU_448,Accountability,1,1,1,0,1,3,4,5,1
+STU_449,Social Awareness,1,1,1,1,0,4,5,4,1
+STU_450,Healthy Habits,1,1,1,1,1,5,4,5,1
+STU_451,Empathy & Sympathy,1,1,1,1,1,4,5,4,1
+STU_452,Gratitude,0,0,1,1,1,3,4,3,1
+STU_453,Healthy Habits,1,1,1,1,1,4,5,4,1
+STU_454,Critical Thinking,1,1,1,1,0,4,5,5,1
+STU_455,Diversity & Inclusion,1,1,1,1,1,3,4,4,1
+STU_456,Empathy & Sympathy,1,1,1,1,1,4,5,5,1
+STU_457,Critical Thinking,1,1,1,1,1,5,5,4,1
+STU_458,Boundaries,1,1,1,1,1,4,4,4,1
+STU_459,Communication Skills,1,1,1,1,1,5,4,4,1
+STU_460,Expectations,1,1,1,1,0,5,4,4,1
+STU_461,Diversity & Inclusion,1,1,1,1,1,5,4,4,1
+STU_462,Healthy Habits,1,1,1,1,0,4,3,4,1
+STU_463,Communication Skills,1,0,1,0,1,4,4,4,0
+STU_464,Empathy & Sympathy,1,0,1,0,0,3,4,3,1
+STU_465,Boundaries,0,1,1,1,0,4,3,4,0
+STU_466,Critical Thinking,0,1,1,1,1,5,4,4,1
+STU_467,Communication Skills,1,1,1,0,1,2,2,4,1
+STU_468,Gratitude,1,1,1,1,1,5,4,5,1
+STU_469,Communication Skills,1,1,1,1,1,4,5,5,1
+STU_470,Diversity & Inclusion,1,1,1,0,0,4,4,3,1
+STU_471,Empathy & Sympathy,1,0,1,1,1,5,4,4,1
+STU_472,Healthy Habits,1,1,1,1,0,3,2,3,0
+STU_473,Mental Health,1,1,0,1,1,5,4,4,1
+STU_474,Mental Health,1,1,1,1,1,3,4,4,1
+STU_475,Expectations,1,0,1,1,0,3,5,5,1
+STU_476,Accountability,1,1,1,1,1,4,5,4,1
+STU_477,Diversity & Inclusion,1,1,1,1,1,4,4,4,1
+STU_478,Accountability,0,0,0,1,0,2,4,4,0
+STU_479,Accountability,1,1,0,0,0,5,3,4,1
+STU_480,Critical Thinking,1,1,1,1,1,5,5,4,1
+STU_481,Healthy Habits,1,1,1,1,1,5,3,5,1
+STU_482,Expectations,1,1,1,1,1,5,3,5,1
+STU_483,Boundaries,0,1,1,1,1,4,3,4,1
+STU_484,Mental Health,1,1,1,1,0,4,5,5,1
+STU_485,Boundaries,1,0,1,1,0,5,4,4,0
+STU_486,Communication Skills,0,1,1,1,0,2,4,5,1
+STU_487,Expectations,0,0,1,1,1,3,3,4,1
+STU_488,Expectations,0,1,1,1,1,4,3,3,0
+STU_489,Communication Skills,1,0,1,1,0,3,5,5,1
+STU_490,Gratitude,1,0,1,1,1,4,3,5,1
+STU_491,Expectations,1,1,1,1,1,5,4,4,1
+STU_492,Gratitude,1,0,1,1,1,4,4,3,1
+STU_493,Expectations,1,1,1,1,1,4,4,4,1
+STU_494,Social Awareness,1,1,1,1,1,5,4,4,1
+STU_495,Gratitude,1,1,1,1,1,4,3,4,1
+STU_496,Accountability,1,1,1,1,1,4,4,5,1
+STU_497,Diversity & Inclusion,0,0,0,0,1,3,3,3,0
+STU_498,Critical Thinking,1,1,1,1,0,4,3,3,1
+STU_499,Gratitude,1,0,1,1,1,1,4,3,0
+STU_500,Healthy Habits,1,0,0,0,1,3,3,3,0
+STU_501,Gratitude,1,1,1,1,1,4,5,5,1
+STU_502,Critical Thinking,1,1,1,1,1,5,5,3,1
+STU_503,Diversity & Inclusion,1,1,1,1,1,4,5,3,1
+STU_504,Mental Health,0,0,1,1,0,4,3,4,0
+STU_505,Accountability,0,0,0,0,0,1,4,3,0
+STU_506,Critical Thinking,1,1,1,1,1,3,4,3,1
+STU_507,Expectations,1,1,1,1,1,4,5,4,1
+STU_508,Communication Skills,1,1,1,1,0,4,3,4,0
+STU_509,Empathy & Sympathy,1,1,0,1,1,5,2,4,1
+STU_510,Critical Thinking,0,1,1,1,1,5,5,4,1
+STU_511,Communication Skills,1,1,0,0,0,2,4,3,1
+STU_512,Empathy & Sympathy,1,1,0,1,1,3,4,4,1
+STU_513,Gratitude,0,1,1,1,1,4,4,5,1
+STU_514,Communication Skills,1,1,1,0,1,4,5,4,1
+STU_515,Accountability,1,1,1,0,1,3,4,3,1
+STU_516,Communication Skills,1,1,0,1,1,3,5,4,1
+STU_517,Mental Health,1,1,1,1,0,5,5,5,1
+STU_518,Expectations,0,1,1,0,0,2,5,3,1
+STU_519,Communication Skills,1,1,0,1,1,4,4,4,1
+STU_520,Diversity & Inclusion,1,1,1,1,1,5,4,5,1
+STU_521,Diversity & Inclusion,0,1,0,0,1,4,3,3,1
+STU_522,Diversity & Inclusion,1,1,0,1,0,3,5,4,0
+STU_523,Critical Thinking,1,1,1,1,1,5,5,5,1
+STU_524,Accountability,1,0,1,1,0,5,4,4,1
+STU_525,Gratitude,1,1,1,1,1,5,5,5,1
+STU_526,Diversity & Inclusion,1,0,1,0,1,3,4,4,1
+STU_527,Diversity & Inclusion,1,1,1,1,1,5,4,4,1
+STU_528,Critical Thinking,1,1,1,1,1,4,4,3,1
+STU_529,Social Awareness,1,1,0,1,1,5,3,3,1
+STU_530,Healthy Habits,1,1,1,1,1,5,4,5,1
+STU_531,Empathy & Sympathy,0,0,1,1,1,5,4,5,1
+STU_532,Critical Thinking,1,0,1,1,1,3,3,4,1
+STU_533,Boundaries,0,0,1,1,1,3,3,4,1
+STU_534,Expectations,1,1,1,1,0,4,5,4,1
+STU_535,Accountability,1,1,0,1,1,3,4,3,0
+STU_536,Social Awareness,1,1,1,1,1,4,4,5,1
+STU_537,Mental Health,1,0,1,1,1,5,4,5,1
+STU_538,Communication Skills,1,1,1,1,1,5,5,5,1
+STU_539,Boundaries,0,0,0,0,1,2,3,3,0
+STU_540,Communication Skills,1,1,0,1,1,4,4,4,1
+STU_541,Accountability,0,0,1,1,0,3,4,3,1
+STU_542,Communication Skills,0,1,0,1,0,4,4,3,1
+STU_543,Gratitude,1,0,1,1,1,3,5,3,1
+STU_544,Healthy Habits,1,0,0,1,0,4,4,3,1
+STU_545,Empathy & Sympathy,1,0,1,1,1,4,4,4,1
+STU_546,Communication Skills,1,1,1,1,1,4,5,4,0
+STU_547,Critical Thinking,1,1,0,0,1,4,4,3,0
+STU_548,Expectations,1,1,1,1,1,1,4,3,0
+STU_549,Social Awareness,1,1,1,1,1,4,5,4,1
+STU_550,Boundaries,1,1,1,1,1,4,4,3,1
+STU_551,Communication Skills,1,1,1,1,1,4,4,4,0
+STU_552,Expectations,1,1,1,1,1,5,4,4,1
+STU_553,Mental Health,1,1,1,1,1,5,4,4,1
+STU_554,Gratitude,1,1,1,1,1,5,4,5,1
+STU_555,Communication Skills,1,1,1,1,1,4,4,2,1
+STU_556,Social Awareness,1,1,0,1,1,5,4,2,1
+STU_557,Empathy & Sympathy,1,0,1,1,1,3,5,4,1
+STU_558,Accountability,1,1,0,0,0,3,4,3,1
+STU_559,Critical Thinking,0,0,1,1,0,2,2,4,1
+STU_560,Empathy & Sympathy,1,1,1,1,1,5,4,3,1
+STU_561,Accountability,1,1,1,1,1,4,4,3,1
+STU_562,Diversity & Inclusion,1,1,1,1,1,4,5,4,1
+STU_563,Gratitude,1,0,1,1,1,4,4,4,1
+STU_564,Social Awareness,1,1,0,1,1,4,4,5,1
+STU_565,Accountability,1,1,1,1,1,4,4,4,1
+STU_566,Healthy Habits,1,1,1,1,1,4,4,4,1
+STU_567,Social Awareness,1,1,1,1,1,3,5,5,1
+STU_568,Boundaries,1,1,1,1,1,4,4,3,1
+STU_569,Social Awareness,0,1,1,1,1,4,5,5,1
+STU_570,Communication Skills,1,1,1,0,1,4,5,5,1
+STU_571,Boundaries,1,1,1,0,1,2,4,4,1
+STU_572,Social Awareness,1,1,1,1,1,4,3,4,1
+STU_573,Diversity & Inclusion,1,1,1,1,0,4,5,4,1
+STU_574,Gratitude,0,0,1,1,1,3,3,4,1
+STU_575,Gratitude,1,1,1,0,1,4,5,4,1
+STU_576,Gratitude,0,1,1,1,1,4,3,3,1
+STU_577,Diversity & Inclusion,0,1,1,1,1,5,4,5,1
+STU_578,Social Awareness,1,1,1,1,1,5,5,5,1
+STU_579,Social Awareness,1,1,1,1,1,4,3,4,1
+STU_580,Empathy & Sympathy,1,1,0,1,1,4,5,5,1
+STU_581,Boundaries,0,0,0,0,0,2,3,2,0
+STU_582,Empathy & Sympathy,1,0,1,1,0,3,3,3,0
+STU_583,Boundaries,0,1,0,1,0,4,4,5,1
+STU_584,Healthy Habits,1,0,1,0,1,3,3,5,1
+STU_585,Gratitude,1,1,1,1,1,5,4,4,1
+STU_586,Communication Skills,1,1,0,1,1,4,4,5,1
+STU_587,Mental Health,1,0,0,1,0,2,3,5,0
+STU_588,Diversity & Inclusion,1,1,0,1,0,4,5,4,1
+STU_589,Critical Thinking,0,1,1,0,1,4,4,5,1
+STU_590,Critical Thinking,1,1,1,1,1,4,4,5,1
+STU_591,Social Awareness,1,1,0,0,1,2,4,3,1
+STU_592,Communication Skills,1,1,0,0,1,4,4,4,1
+STU_593,Boundaries,1,1,1,1,1,5,4,5,1
+STU_594,Expectations,0,0,0,1,0,3,4,4,0
+STU_595,Accountability,1,0,1,1,0,3,3,2,1
+STU_596,Healthy Habits,1,0,1,1,1,5,3,3,1
+STU_597,Healthy Habits,1,0,0,1,1,2,5,4,1
+STU_598,Diversity & Inclusion,0,1,1,1,1,5,4,4,1
+STU_599,Mental Health,1,1,1,0,1,5,4,4,1
+STU_600,Empathy & Sympathy,0,0,1,1,0,1,3,4,0
+STU_601,Empathy & Sympathy,1,1,1,1,1,4,5,5,0
+STU_602,Empathy & Sympathy,1,1,1,1,1,3,3,3,1
+STU_603,Boundaries,1,1,1,1,1,5,3,5,1
+STU_604,Healthy Habits,1,1,1,0,0,3,3,3,1
+STU_605,Empathy & Sympathy,1,1,0,1,1,4,5,3,1
+STU_606,Social Awareness,1,1,1,1,1,4,5,4,1
+STU_607,Boundaries,1,1,1,1,1,4,4,4,1
+STU_608,Social Awareness,1,1,1,1,1,4,5,3,1
+STU_609,Boundaries,0,1,1,0,1,3,4,2,0
+STU_610,Empathy & Sympathy,1,1,1,1,1,3,4,3,1
+STU_611,Boundaries,1,0,1,1,1,2,4,4,1
+STU_612,Diversity & Inclusion,1,1,1,1,1,5,4,2,0
+STU_613,Critical Thinking,1,1,1,1,0,3,3,2,1
+STU_614,Empathy & Sympathy,1,1,1,1,1,4,4,3,1
+STU_615,Social Awareness,0,1,1,1,0,3,4,4,1
+STU_616,Healthy Habits,1,1,1,0,1,4,2,2,1
+STU_617,Empathy & Sympathy,1,1,1,1,1,5,4,4,1
+STU_618,Gratitude,1,0,1,1,1,5,4,5,1
+STU_619,Diversity & Inclusion,1,1,1,1,0,2,5,5,1
+STU_620,Mental Health,1,1,1,1,0,4,3,3,1
+STU_621,Diversity & Inclusion,1,1,1,1,1,3,4,4,1
+STU_622,Healthy Habits,1,1,1,1,1,4,4,3,1
+STU_623,Empathy & Sympathy,1,1,0,1,1,3,5,3,1
+STU_624,Diversity & Inclusion,0,1,0,1,1,4,4,3,1
+STU_625,Social Awareness,1,0,0,1,1,3,5,5,1
+STU_626,Diversity & Inclusion,1,1,1,0,1,5,4,4,1
+STU_627,Accountability,0,1,1,1,0,5,4,3,0
+STU_628,Empathy & Sympathy,1,1,1,1,1,5,5,5,1
+STU_629,Gratitude,1,0,1,0,1,4,3,2,1
+STU_630,Communication Skills,0,0,0,0,1,2,4,2,1
+STU_631,Diversity & Inclusion,1,1,1,1,1,5,4,4,1
+STU_632,Communication Skills,1,1,1,1,1,5,4,5,1
+STU_633,Gratitude,1,1,1,0,1,3,4,4,1
+STU_634,Mental Health,0,1,0,1,1,3,4,3,1
+STU_635,Social Awareness,0,1,1,1,1,3,2,4,1
+STU_636,Empathy & Sympathy,0,1,1,1,1,4,5,4,1
+STU_637,Expectations,1,0,0,1,0,5,4,4,1
+STU_638,Critical Thinking,0,1,1,1,1,3,2,3,1
+STU_639,Boundaries,1,1,1,0,1,5,2,4,1
+STU_640,Healthy Habits,0,1,1,1,1,3,3,4,1
+STU_641,Boundaries,1,1,1,1,1,4,3,4,1
+STU_642,Boundaries,1,1,1,1,1,4,4,4,1
+STU_643,Gratitude,1,1,1,1,1,5,5,5,1
+STU_644,Critical Thinking,1,1,1,1,1,4,4,5,1
+STU_645,Gratitude,1,1,1,1,1,4,3,3,1
+STU_646,Expectations,1,1,1,1,1,5,4,5,1
+STU_647,Social Awareness,1,0,0,1,0,5,4,3,1
+STU_648,Social Awareness,1,0,0,0,0,4,4,3,1
+STU_649,Communication Skills,1,1,1,1,1,4,4,3,1
+STU_650,Healthy Habits,1,1,1,1,1,4,5,5,1
+STU_651,Communication Skills,1,1,1,1,1,4,4,4,1
+STU_652,Mental Health,1,1,1,1,1,3,3,3,1
+STU_653,Social Awareness,1,1,1,1,1,4,4,4,1
+STU_654,Accountability,1,1,0,1,0,3,5,3,0
+STU_655,Mental Health,1,0,1,1,1,5,4,4,1
+STU_656,Social Awareness,1,1,1,1,1,3,4,4,1
+STU_657,Expectations,1,0,1,1,1,3,4,1,1
+STU_658,Empathy & Sympathy,1,0,0,1,1,5,5,4,1
+STU_659,Communication Skills,1,1,1,1,1,5,5,5,1
+STU_660,Social Awareness,1,1,0,1,1,3,5,5,1
+STU_661,Social Awareness,0,1,1,0,1,2,4,4,1
+STU_662,Healthy Habits,1,1,1,1,1,4,4,4,1
+STU_663,Social Awareness,1,1,1,1,0,2,4,4,1
+STU_664,Accountability,0,1,0,0,0,5,3,3,1
+STU_665,Healthy Habits,0,1,1,0,0,4,4,4,1
+STU_666,Accountability,1,1,0,1,0,4,3,3,1
+STU_667,Social Awareness,0,1,1,0,1,2,3,2,1
+STU_668,Mental Health,1,1,1,1,1,5,4,4,1
+STU_669,Social Awareness,1,1,1,1,1,4,4,5,0
+STU_670,Healthy Habits,1,0,0,0,0,2,3,3,0
+STU_671,Accountability,1,1,1,1,1,3,4,5,1
+STU_672,Accountability,0,1,0,1,1,5,3,3,1
+STU_673,Diversity & Inclusion,0,0,1,1,1,4,3,4,1
+STU_674,Boundaries,1,0,0,0,1,5,2,3,1
+STU_675,Communication Skills,1,0,1,1,1,5,5,4,1
+STU_676,Expectations,1,0,1,1,1,4,5,4,1
+STU_677,Critical Thinking,1,1,1,1,1,5,5,5,1
+STU_678,Gratitude,0,1,0,1,1,3,4,4,1
+STU_679,Critical Thinking,1,1,1,1,1,5,4,4,1
+STU_680,Gratitude,0,1,1,1,0,3,4,5,1
+STU_681,Empathy & Sympathy,1,1,1,1,1,5,4,5,1
+STU_682,Accountability,1,1,1,1,1,5,5,4,1
+STU_683,Healthy Habits,1,1,1,1,1,5,5,3,1
+STU_684,Boundaries,1,0,1,1,1,3,5,4,1
+STU_685,Social Awareness,0,1,0,1,1,4,3,3,0
+STU_686,Diversity & Inclusion,0,0,1,1,1,4,5,4,1
+STU_687,Expectations,1,1,1,1,1,4,4,5,1
+STU_688,Expectations,1,1,1,1,1,5,5,4,1
+STU_689,Social Awareness,1,1,0,1,1,4,4,3,1
+STU_690,Empathy & Sympathy,1,1,0,1,1,3,4,4,1
+STU_691,Expectations,1,1,1,1,1,5,2,5,1
+STU_692,Healthy Habits,1,1,0,0,1,4,4,4,1
+STU_693,Accountability,1,0,1,1,1,5,5,3,1
+STU_694,Critical Thinking,0,0,1,1,0,2,3,2,1
+STU_695,Mental Health,1,1,0,1,1,3,5,4,1
+STU_696,Communication Skills,1,0,0,1,1,5,3,3,1
+STU_697,Empathy & Sympathy,1,1,0,0,0,4,3,1,0
+STU_698,Boundaries,1,1,1,1,1,4,3,4,1
+STU_699,Communication Skills,0,0,1,0,1,3,3,4,0
+STU_700,Gratitude,1,1,0,1,1,4,5,4,1
+STU_701,Critical Thinking,1,1,1,1,1,5,5,5,1
+STU_702,Gratitude,1,1,1,1,1,4,3,4,1
+STU_703,Critical Thinking,1,1,0,1,0,3,3,4,1
+STU_704,Social Awareness,1,1,1,1,1,5,3,4,1
+STU_705,Accountability,1,1,1,1,1,5,5,2,1
+STU_706,Social Awareness,1,1,0,0,0,5,5,3,0
+STU_707,Boundaries,1,1,1,0,1,2,4,4,1
+STU_708,Expectations,1,1,1,0,1,5,3,4,1
+STU_709,Expectations,1,1,1,1,1,5,3,4,1
+STU_710,Critical Thinking,1,1,1,1,0,4,4,5,1
+STU_711,Social Awareness,1,1,1,1,0,4,5,4,1
+STU_712,Healthy Habits,0,1,1,1,1,3,3,5,1
+STU_713,Social Awareness,0,0,1,1,0,4,3,4,0
+STU_714,Expectations,0,1,1,1,1,3,5,4,1
+STU_715,Healthy Habits,0,0,1,1,1,4,4,4,1
+STU_716,Empathy & Sympathy,1,1,1,1,0,2,5,1,1
+STU_717,Communication Skills,1,0,1,1,0,4,4,3,1
+STU_718,Communication Skills,1,1,1,1,1,5,4,3,1
+STU_719,Empathy & Sympathy,0,1,1,1,0,4,4,4,0
+STU_720,Boundaries,1,0,0,1,1,2,4,4,1
+STU_721,Gratitude,1,1,1,1,1,5,3,4,1
+STU_722,Gratitude,0,1,1,1,1,4,4,5,1
+STU_723,Critical Thinking,0,0,0,0,0,2,4,3,0
+STU_724,Healthy Habits,1,0,0,1,0,2,3,5,0
+STU_725,Mental Health,0,1,1,0,0,3,5,4,1
+STU_726,Social Awareness,1,0,1,1,1,4,4,4,1
+STU_727,Boundaries,1,1,1,1,1,4,4,4,1
+STU_728,Healthy Habits,1,1,1,1,1,5,5,4,1
+STU_729,Social Awareness,1,0,1,1,0,3,3,4,1
+STU_730,Empathy & Sympathy,1,0,1,1,0,4,4,3,1
+STU_731,Social Awareness,1,1,1,0,1,4,3,4,1
+STU_732,Empathy & Sympathy,1,0,1,1,1,4,4,4,1
+STU_733,Communication Skills,1,1,1,1,1,5,2,4,1
+STU_734,Empathy & Sympathy,0,1,0,1,1,4,4,4,1
+STU_735,Communication Skills,0,1,1,0,0,4,5,5,1
+STU_736,Communication Skills,1,1,1,1,0,3,5,5,1
+STU_737,Expectations,1,1,1,1,1,5,3,4,1
+STU_738,Boundaries,1,1,1,1,1,4,3,5,1
+STU_739,Critical Thinking,0,1,0,1,0,4,3,2,1
+STU_740,Expectations,0,0,0,1,0,3,3,2,0
+STU_741,Accountability,1,1,1,1,1,5,3,3,1
+STU_742,Diversity & Inclusion,1,1,1,1,1,5,5,5,1
+STU_743,Mental Health,0,1,0,1,0,3,4,4,0
+STU_744,Diversity & Inclusion,0,1,1,1,1,4,3,2,1
+STU_745,Boundaries,1,0,1,1,1,3,5,4,1
+STU_746,Expectations,1,1,1,1,1,5,5,4,1
+STU_747,Accountability,1,1,1,1,1,5,4,5,1
+STU_748,Accountability,1,1,1,1,1,5,3,4,1
+STU_749,Social Awareness,1,1,0,1,1,3,4,3,0
+STU_750,Gratitude,0,1,1,0,1,4,3,2,1
+STU_751,Gratitude,0,1,1,1,1,3,4,3,1
+STU_752,Gratitude,1,1,0,1,1,4,4,5,1
+STU_753,Empathy & Sympathy,1,1,1,1,1,3,5,3,1
+STU_754,Mental Health,1,0,1,1,1,5,5,4,1
+STU_755,Healthy Habits,1,1,0,1,1,5,5,5,1
+STU_756,Communication Skills,1,1,1,1,0,5,3,4,1
+STU_757,Healthy Habits,0,0,0,1,0,3,4,5,0
+STU_758,Mental Health,1,1,1,1,1,4,4,5,1
+STU_759,Communication Skills,1,1,0,1,1,4,5,4,1
+STU_760,Empathy & Sympathy,1,1,1,0,1,5,4,3,1
+STU_761,Boundaries,1,1,1,1,1,5,4,5,1
+STU_762,Healthy Habits,1,1,1,1,0,5,5,5,1
+STU_763,Communication Skills,1,1,1,1,1,5,4,4,1
+STU_764,Accountability,1,0,0,1,1,3,3,5,1
+STU_765,Healthy Habits,1,1,1,1,0,2,5,5,1
+STU_766,Gratitude,1,0,1,0,0,3,3,4,1
+STU_767,Social Awareness,1,1,1,1,1,3,4,3,1
+STU_768,Gratitude,0,1,1,1,1,3,4,4,1
+STU_769,Social Awareness,1,1,1,1,1,3,4,2,0
+STU_770,Critical Thinking,1,1,1,1,1,5,5,5,1
+STU_771,Empathy & Sympathy,1,1,1,1,0,4,5,5,1
+STU_772,Communication Skills,1,1,1,1,1,5,4,5,1
+STU_773,Healthy Habits,1,1,1,1,0,4,3,4,1
+STU_774,Critical Thinking,1,1,1,1,1,5,5,4,1
+STU_775,Gratitude,1,1,1,1,1,4,4,3,1
+STU_776,Diversity & Inclusion,1,1,1,1,1,5,5,5,1
+STU_777,Critical Thinking,1,0,1,0,1,3,3,5,0
+STU_778,Communication Skills,1,1,1,1,1,5,4,4,1
+STU_779,Gratitude,1,1,1,1,1,3,4,4,1
+STU_780,Social Awareness,0,0,1,0,0,4,2,4,0
+STU_781,Critical Thinking,1,1,1,1,1,4,4,4,1
+STU_782,Empathy & Sympathy,1,1,1,1,1,4,4,3,1
+STU_783,Critical Thinking,1,1,1,1,1,5,5,4,1
+STU_784,Boundaries,1,1,1,1,1,4,4,4,1
+STU_785,Empathy & Sympathy,1,0,1,0,1,2,4,2,1
+STU_786,Social Awareness,1,0,1,1,1,2,3,5,1
+STU_787,Critical Thinking,0,1,1,1,1,5,5,4,1
+STU_788,Accountability,1,0,1,1,1,5,3,4,1
+STU_789,Healthy Habits,0,1,0,0,0,5,4,2,0
+STU_790,Mental Health,1,1,1,0,1,4,5,2,1
+STU_791,Social Awareness,1,1,0,1,1,3,4,4,1
+STU_792,Expectations,1,1,1,1,1,3,2,5,0
+STU_793,Expectations,1,1,1,1,1,4,3,4,1
+STU_794,Healthy Habits,0,1,1,1,1,3,5,5,1
+STU_795,Diversity & Inclusion,1,0,0,0,0,4,2,3,0
+STU_796,Empathy & Sympathy,1,1,1,1,0,5,4,4,1
+STU_797,Communication Skills,1,1,1,1,1,5,5,5,1
+STU_798,Empathy & Sympathy,1,1,1,1,1,5,5,4,1
+STU_799,Empathy & Sympathy,1,1,1,0,1,4,5,4,1
+STU_800,Accountability,1,1,1,1,1,5,3,5,1
+STU_801,Critical Thinking,0,1,1,0,1,4,3,4,1
+STU_802,Gratitude,0,1,1,1,0,3,4,4,1
+STU_803,Empathy & Sympathy,1,1,1,1,1,5,4,4,1
+STU_804,Social Awareness,1,1,1,1,1,4,2,5,1
+STU_805,Gratitude,1,1,0,1,1,5,5,5,1
+STU_806,Social Awareness,1,1,1,1,1,4,4,5,1
+STU_807,Mental Health,0,1,0,1,0,5,4,4,1
+STU_808,Accountability,1,1,1,1,1,3,5,3,0
+STU_809,Critical Thinking,1,0,0,1,1,5,4,4,1
+STU_810,Mental Health,1,1,1,1,1,4,5,4,1
+STU_811,Gratitude,0,1,1,1,0,4,4,5,1
+STU_812,Diversity & Inclusion,1,1,0,1,1,3,5,3,1
+STU_813,Gratitude,1,1,1,1,1,5,3,3,1
+STU_814,Expectations,1,1,0,0,1,3,4,2,0
+STU_815,Empathy & Sympathy,1,1,1,0,1,3,4,2,1
+STU_816,Accountability,1,1,1,1,0,4,4,5,1
+STU_817,Diversity & Inclusion,1,1,1,1,1,4,5,3,1
+STU_818,Social Awareness,1,1,1,1,1,3,4,4,1
+STU_819,Boundaries,1,1,0,1,1,4,5,4,1
+STU_820,Expectations,0,0,0,0,1,4,5,3,0
+STU_821,Social Awareness,1,1,1,1,1,3,4,4,1
+STU_822,Communication Skills,1,1,1,1,1,5,5,5,1
+STU_823,Diversity & Inclusion,0,1,1,1,1,3,5,1,1
+STU_824,Accountability,1,1,0,0,0,3,2,3,0
+STU_825,Accountability,1,0,0,1,0,2,2,3,0
+STU_826,Expectations,1,0,1,1,1,4,5,5,1
+STU_827,Social Awareness,1,1,1,1,1,5,4,5,1
+STU_828,Communication Skills,1,1,0,1,1,3,4,3,1
+STU_829,Mental Health,1,1,1,1,1,4,5,4,1
+STU_830,Gratitude,0,0,0,0,0,1,1,1,0
+STU_831,Accountability,1,1,1,1,0,5,4,5,0
+STU_832,Social Awareness,1,1,1,1,1,5,4,5,1
+STU_833,Expectations,0,1,1,1,1,3,4,4,1
+STU_834,Healthy Habits,0,0,1,0,1,4,5,4,1
+STU_835,Mental Health,1,1,1,1,1,3,4,5,1
+STU_836,Empathy & Sympathy,1,1,0,1,1,3,4,4,1
+STU_837,Boundaries,1,1,1,1,1,3,3,5,1
+STU_838,Empathy & Sympathy,1,1,1,1,1,4,5,5,1
+STU_839,Social Awareness,1,1,1,1,1,5,5,5,1
+STU_840,Accountability,1,1,0,1,0,3,5,4,1
+STU_841,Communication Skills,1,1,1,1,1,5,5,5,1
+STU_842,Social Awareness,0,1,1,1,0,3,3,4,1
+STU_843,Diversity & Inclusion,0,1,1,1,0,5,4,4,1
+STU_844,Diversity & Inclusion,1,1,1,1,1,3,3,5,1
+STU_845,Boundaries,1,1,1,1,1,4,4,5,1
+STU_846,Critical Thinking,1,1,1,0,1,4,4,3,1
+STU_847,Gratitude,1,1,1,1,1,5,5,5,1
+STU_848,Diversity & Inclusion,1,1,1,1,1,5,5,5,1
+STU_849,Critical Thinking,1,1,1,1,1,3,3,4,1
+STU_850,Social Awareness,1,1,1,1,0,5,4,4,1
+STU_851,Critical Thinking,1,1,1,1,1,5,3,5,1
+STU_852,Communication Skills,0,0,1,1,0,2,4,4,0
+STU_853,Mental Health,1,1,0,1,1,4,3,5,1
+STU_854,Expectations,1,0,1,1,1,4,4,5,1
+STU_855,Communication Skills,1,1,1,1,0,4,4,4,1
+STU_856,Mental Health,1,1,1,1,1,4,3,4,1
+STU_857,Gratitude,1,1,1,1,1,3,5,3,1
+STU_858,Expectations,0,1,1,1,1,5,4,4,1
+STU_859,Communication Skills,0,1,0,0,1,2,4,2,0
+STU_860,Social Awareness,1,1,0,1,1,4,4,5,1
+STU_861,Healthy Habits,0,1,0,1,1,4,4,4,1
+STU_862,Expectations,1,1,1,1,1,3,3,3,0
+STU_863,Diversity & Inclusion,1,1,1,1,1,3,4,4,1
+STU_864,Social Awareness,1,1,1,1,1,3,5,5,1
+STU_865,Healthy Habits,0,1,0,1,1,3,3,3,0
+STU_866,Communication Skills,1,1,1,1,1,4,5,4,1
+STU_867,Social Awareness,1,1,0,1,1,3,3,4,0
+STU_868,Boundaries,1,1,1,1,1,3,5,2,1
+STU_869,Diversity & Inclusion,0,1,1,1,1,4,3,4,1
+STU_870,Healthy Habits,1,1,1,1,1,4,5,3,1
+STU_871,Empathy & Sympathy,1,1,1,1,1,4,4,4,1
+STU_872,Gratitude,1,1,0,1,1,5,5,2,1
+STU_873,Social Awareness,1,1,1,1,0,4,3,5,1
+STU_874,Expectations,1,1,1,0,1,3,3,3,1
+STU_875,Critical Thinking,1,1,1,1,0,2,3,2,1
+STU_876,Social Awareness,0,0,1,1,0,3,2,3,0
+STU_877,Empathy & Sympathy,1,1,1,1,1,4,3,4,1
+STU_878,Mental Health,1,1,1,1,1,3,5,3,1
+STU_879,Boundaries,0,0,1,1,1,2,4,4,1
+STU_880,Gratitude,0,1,1,0,1,4,4,2,1
+STU_881,Gratitude,1,1,0,0,1,4,4,3,1
+STU_882,Gratitude,1,1,1,1,1,5,4,4,1
+STU_883,Expectations,1,1,1,1,0,4,5,4,1
+STU_884,Empathy & Sympathy,0,0,0,0,1,5,3,4,1
+STU_885,Diversity & Inclusion,1,1,1,1,0,4,3,4,1
+STU_886,Diversity & Inclusion,1,1,1,1,1,5,5,4,1
+STU_887,Critical Thinking,1,0,1,1,1,5,4,3,1
+STU_888,Empathy & Sympathy,0,1,1,1,1,5,5,4,1
+STU_889,Communication Skills,0,0,1,0,0,4,3,4,0
+STU_890,Accountability,0,0,0,0,0,4,4,4,1
+STU_891,Mental Health,0,1,1,1,1,4,5,4,1
+STU_892,Accountability,1,1,1,1,1,4,3,3,1
+STU_893,Healthy Habits,0,1,0,0,1,4,3,3,1
+STU_894,Boundaries,1,0,1,1,1,4,5,5,1
+STU_895,Mental Health,1,0,0,1,1,4,4,3,1
+STU_896,Empathy & Sympathy,1,1,1,1,0,4,3,4,1
+STU_897,Critical Thinking,1,1,1,1,1,3,3,4,1
+STU_898,Social Awareness,0,1,0,0,1,2,2,3,1
+STU_899,Expectations,1,1,1,0,1,5,5,3,1
+STU_900,Healthy Habits,0,1,0,0,1,3,3,4,0
+STU_901,Accountability,1,1,1,1,0,5,4,4,1
+STU_902,Accountability,1,1,0,1,1,5,3,4,1
+STU_903,Diversity & Inclusion,1,1,1,1,1,4,3,3,0
+STU_904,Communication Skills,1,1,1,1,1,5,4,5,1
+STU_905,Expectations,1,1,0,1,1,3,3,4,1
+STU_906,Critical Thinking,1,1,1,1,1,5,5,5,1
+STU_907,Diversity & Inclusion,1,1,1,1,0,5,4,5,1
+STU_908,Social Awareness,1,0,0,1,1,3,5,3,0
+STU_909,Expectations,0,0,1,1,1,5,4,4,1
+STU_910,Critical Thinking,1,1,1,1,1,2,5,5,1
+STU_911,Empathy & Sympathy,1,0,1,1,1,3,3,5,1
+STU_912,Gratitude,1,1,1,1,0,5,3,3,1
+STU_913,Mental Health,1,1,1,1,1,3,4,5,1
+STU_914,Social Awareness,1,0,0,1,1,4,3,3,0
+STU_915,Expectations,1,1,1,1,1,5,5,4,1
+STU_916,Social Awareness,1,1,1,1,1,5,4,5,1
+STU_917,Accountability,1,1,1,1,1,4,3,4,1
+STU_918,Critical Thinking,1,1,1,1,1,5,5,4,1
+STU_919,Healthy Habits,0,1,1,1,1,4,4,4,1
+STU_920,Accountability,0,0,0,1,1,3,2,3,0
+STU_921,Diversity & Inclusion,1,0,0,1,1,3,5,4,1
+STU_922,Communication Skills,1,1,1,1,0,3,3,3,1
+STU_923,Social Awareness,1,1,0,1,1,4,5,5,1
+STU_924,Accountability,0,1,1,1,1,3,3,4,1
+STU_925,Communication Skills,1,0,1,1,1,4,4,5,1
+STU_926,Critical Thinking,1,1,1,1,1,5,5,5,1
+STU_927,Communication Skills,1,1,1,1,0,3,5,3,1
+STU_928,Healthy Habits,0,1,1,1,1,4,5,5,0
+STU_929,Empathy & Sympathy,1,1,1,1,1,4,4,3,1
+STU_930,Social Awareness,1,1,1,1,1,4,5,4,1
+STU_931,Critical Thinking,1,1,1,1,1,4,5,4,1
+STU_932,Gratitude,1,1,1,1,1,5,4,3,1
+STU_933,Mental Health,1,1,1,1,1,5,4,5,1
+STU_934,Healthy Habits,1,1,1,1,1,5,4,5,1
+STU_935,Boundaries,1,1,1,1,1,3,5,5,1
+STU_936,Critical Thinking,1,1,1,1,0,4,4,5,1
+STU_937,Gratitude,0,1,0,1,1,4,3,4,1
+STU_938,Boundaries,1,1,1,1,1,3,5,4,1
+STU_939,Expectations,1,1,1,1,1,4,3,4,1
+STU_940,Healthy Habits,1,1,1,1,1,4,5,5,1
+STU_941,Mental Health,1,1,1,0,1,4,4,3,1
+STU_942,Expectations,0,1,1,1,1,4,5,3,1
+STU_943,Healthy Habits,1,1,0,1,1,5,4,5,1
+STU_944,Social Awareness,0,1,1,1,1,3,3,5,1
+STU_945,Communication Skills,1,1,1,1,1,3,4,4,1
+STU_946,Diversity & Inclusion,1,1,0,1,0,4,4,5,1
+STU_947,Communication Skills,1,1,1,1,1,4,5,2,0
+STU_948,Accountability,0,0,1,0,0,1,3,2,0
+STU_949,Gratitude,1,1,1,0,1,4,2,3,1
