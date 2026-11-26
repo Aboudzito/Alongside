@@ -1,4 +1,4 @@
-📋 Project Identity: "Dare To Be Aware"
+📋 Project Identity: "Alongside"
 1. The Core Subject
 At its heart, this project is an Evidence-Based Character Building Initiative. It documents and analyzes a large-scale, peer-led educational program conducted at The Egyptian Language School (ELS).
 
