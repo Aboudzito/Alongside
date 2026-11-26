@@ -31,18 +31,18 @@ Because the real data is private, the pipeline is demonstrated on **synthetic da
 
 ```bash
 python generate_synthetic_data.py   # creates synthetic_student_responses.csv
-python train_model.py               # trains, tunes, evaluates, saves model
+python train_model.py               # trains, tunes, evaluates
 ```
 
 What `train_model.py` does:
 
 - Predicts whether a student **understood** a session from quiz answers, session/presenter ratings, and topic
 - Uses a **stratified 80/20 train/test split** (the target is imbalanced, about 87/13)
-- Compares against a **majority-class baseline** and a logistic regression
-- Tunes a Random Forest with **5-fold cross-validated randomized search**, optimizing macro-F1
+- Compares against a **majority-class baseline**
+- Tunes a Random Forest with **GridSearchCV (5-fold cross-validation)**, optimizing macro-F1
 - Reports precision, recall, F1, a confusion matrix, and feature importances
 
-**Why not just report accuracy?** With about 87% of students in the "understood" class, a model that always says "understood" gets about 87% accuracy while learning nothing. On the synthetic data, the tuned Random Forest has *lower* accuracy than that baseline (about 77% vs 87%) but a much better macro-F1 (about 0.64 vs 0.46), because it actually identifies students who didn't understand. Macro-F1 and per-class recall are the fairer measures here.
+**Why not just report accuracy?** With about 87% of students in the "understood" class, a model that always says "understood" gets about 87% accuracy while learning nothing. On the synthetic data, the tuned Random Forest has *lower* accuracy than that baseline (about 79% vs 87%) but a much better macro-F1 (about 0.66 vs 0.46), because it actually identifies students who didn't understand. Macro-F1 and per-class recall are the fairer measures here.
 
 ## Run locally
 
