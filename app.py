@@ -20,8 +20,15 @@ app.add_middleware(
 async def serve_frontend():
     return FileResponse("Fair.html")
 
+from typing import List
+
+class Turn(BaseModel):
+    role: str   # "user" or "model"
+    text: str
+
 class ChatRequest(BaseModel):
     user_message: str
+    history: List[Turn] = []
 
 # =====================================================================
 # 🤝 ALONGSIDE: A peer-voiced guide for real student situations
@@ -72,7 +79,11 @@ TONE: Warm. Real. Non-judgmental. Like a friend who actually gets it.
 @app.post("/chat")
 async def chat_with_ai(request: ChatRequest):
     try:
-        prompt = f"{SYSTEM_CONTEXT}\n\nStudent: {request.user_message}\nAlongside:"
+        convo = ""
+        for turn in request.history[-10:]:
+            who = "Student" if turn.role == "user" else "Alongside"
+            convo += f"{who}: {turn.text}\n"
+        prompt = f"{SYSTEM_CONTEXT}\n\n{convo}Student: {request.user_message}\nAlongside:"
         response = llm_model.generate_content(prompt)
         return {"reply": response.text}
     except Exception as e:
