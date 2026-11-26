@@ -1,7 +1,7 @@
 """
 Generate a SYNTHETIC student-survey dataset for demonstration.
 
-The real "Dare To Be Aware" survey data belongs to the students and the school
+The real "Alongside" survey data belongs to the students and the school
 and is NOT published. This script produces fake data with a *realistic structure*
 so the training pipeline can be run and reviewed by anyone.
 
