@@ -7,7 +7,7 @@ Alongside helps students talk through everyday situations (friendship conflict, 
 
 ---
 
-## Background: Dare To Be Aware
+## Background: Alongside
 
 Student teens taught other student teens through 11 face-to-face sessions covering accountability, mental health literacy, empathy and perspective-taking, gratitude, communication, boundaries, social awareness, healthy habits, and more. After each session we ran a short survey (quiz questions, plus ratings of the session and presenters).
 
